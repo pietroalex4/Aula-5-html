@@ -30,14 +30,3 @@ h1 {
     padding: 20px;
     box-shadow: 0px 0px 15px rgba(173, 2, 2, 0.788);
 }
-
-.botao{
-    text-align: center;
-    background-color: aquamarine;
-    border: 10px inset black;
-    margin: 10px;
-    width: 25%;
-    border-radius: 30px;
-    padding: 20px;
-    box-shadow: 0px 0px 15px rgba(173, 2, 2, 0.788);
-}
